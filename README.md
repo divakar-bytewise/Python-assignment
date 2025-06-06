@@ -1,4 +1,4 @@
-# Python Assignment – HackerRank Task Completion
+# Python-Assignment
 
 ## HackerRank Profile
 [Click here to view my HackerRank profile](https://www.hackerrank.com/profile/divakar_c1)
